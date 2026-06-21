@@ -1,0 +1,8 @@
+Python
+TensorFlow
+Keras
+Transfer Learning
+NumPy
+Matplotlib
+Scikit-learn
+OpenCV
